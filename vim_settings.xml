@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/DemoControllerApplication.java" timestamp="1543246115541">
         <mark key="[" line="9" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544036450633">
+      <file name="/Dummy.txt" timestamp="1544036543488">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/pom.xml" timestamp="1543432487312">
@@ -56,17 +56,21 @@
         <mark key="]" line="53" column="9" />
         <mark key="." line="53" column="9" />
       </file>
+      <file name="D:/Artista-Canciones/src/main/resources/application.properties" timestamp="1544036641808">
+        <mark key="[" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/controller/PersonaController.java" timestamp="1543433303453">
         <mark key="[" line="36" column="26" />
         <mark key="]" line="36" column="27" />
         <mark key="." line="36" column="27" />
       </file>
+      <file name="D:/Artista-Canciones/src/main/resources/templates/cancion/index.html" timestamp="1544037033179" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/resources/application.properties" timestamp="1543432610675">
         <mark key="[" line="0" column="86" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="D:/Descargas/Artista-Canciones-master/src/main/java/dci/ufro/cl/artistascanciones/controller/CancionController.java" timestamp="1544035123488" />
+      <file name="D:/Artista-Canciones/src/main/resources/templates/cancion/add.html" timestamp="1544037910102" />
     </filemarks>
     <jumps />
     <registers>
