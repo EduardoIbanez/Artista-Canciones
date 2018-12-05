@@ -11,7 +11,6 @@
         <mark key="]" line="42" column="20" />
         <mark key="." line="42" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-jpa/demo-controller/src/main/java/cl/ufo/dci/democontroller/controller/PersonaController.java" timestamp="1543435103622" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controlador/src/main/java/cl/ufo/dci/democontrolador/model/Persona.java" timestamp="1543247304008">
         <mark key="[" line="3" column="0" />
       </file>
@@ -44,6 +43,11 @@
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/model/Persona.java" timestamp="1543433056831">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="D:/Descargas/Artista-Canciones-master/src/main/resources/application.properties" timestamp="1544034895699">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-jpa/demo-controller/pom.xml" timestamp="1543436097839">
         <mark key="[" line="53" column="9" />
         <mark key="]" line="53" column="9" />
@@ -59,6 +63,7 @@
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="D:/Descargas/Artista-Canciones-master/src/main/java/dci/ufro/cl/artistascanciones/controller/CancionController.java" timestamp="1544035123488" />
     </filemarks>
     <jumps />
     <registers>
@@ -107,6 +112,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
