@@ -21,21 +21,23 @@ public class EstiloController {
 
         modelo.addAttribute("estilos",estiloDAO.findAll());
         modelo.addAttribute("tituloTabla", "Listar Estilos");
+        modelo.addAttribute("tituloFormulario", "Ingresar Estilo Musical");
+        modelo.addAttribute(new Estilo());
         return "estilo/index";
     }
 
-    @RequestMapping(value = "add", method = RequestMethod.GET)
-    public String desplegarFormularioEstilo(Model modelo){
+//    @RequestMapping(value = "add", method = RequestMethod.GET)
+//    public String desplegarFormularioEstilo(Model modelo){
+//
+//        modelo.addAttribute("tituloFormulario", "Ingresar Estilo Musical");
+//
+//        return "estilo/index";
+//    }
 
-        modelo.addAttribute("tituloFormulario", "Ingresar Estilo Musical");
-        modelo.addAttribute(new Estilo());
-        return "estilo/add";
-    }
-
-    @RequestMapping(value = "add", method = RequestMethod.POST)
+    @RequestMapping(value = "", method = RequestMethod.POST)
     public String procesarFormularioEstilo(@ModelAttribute Estilo e){
 
         estiloDAO.save(e);
-        return "redirect:";
+        return "redirect:/estilo";
     }
 }
