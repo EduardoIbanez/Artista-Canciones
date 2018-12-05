@@ -35,8 +35,8 @@
                     <label for="estilo">Estilo</label>
                     <select id="estilo" class="form-control" name="estiloId">-->
                         <option th:each="te : ${estilos}"
-                            th:text="${te.nombre}"
-                            th:value="${te.id}">
+                                th:text="${te.nombre}"
+                                th:value="${te.id}">
                         </option>
                     </select>
                 </div>
@@ -72,8 +72,5 @@
         </div>
     </div>
 </div>
-
-
-
 </body>
 </html>
