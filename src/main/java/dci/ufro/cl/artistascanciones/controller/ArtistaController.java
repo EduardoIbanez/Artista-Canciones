@@ -26,30 +26,20 @@ public class ArtistaController {
 
    @RequestMapping(value = "")
     public String index(Model modelo) {
-
-        modelo.addAttribute("tituloTabla", "Artistas");
         modelo.addAttribute("artistas", artistaDAO.findAll());
+        modelo.addAttribute(new Artista());
+        modelo.addAttribute("estilos", estiloDAO.findAll());
         return "artista/index";
     }
 
-    @RequestMapping(value = "add", method = RequestMethod.GET)
-    public String mostrarFormularioArtista(Model modelo) {
-
-        modelo.addAttribute("tituloFormulario", "Ingreso de Artista");
-        modelo.addAttribute(new Artista());
-        modelo.addAttribute("estilos", estiloDAO.findAll());
-
-        return "artista/add";
-    }
-
-    @RequestMapping(value = "add", method = RequestMethod.POST)
+    @RequestMapping(value = "", method = RequestMethod.POST)
     public String procesarFormularioPersona(@ModelAttribute Artista a,
-                                            @RequestParam int estilo,
+                                            @RequestParam int estiloId,
                                             Model model) {
 
-        Optional<Estilo> est = estiloDAO.findById(estilo);
+        Optional<Estilo> est = estiloDAO.findById(estiloId);
         a.setEstilo(est.get());
         artistaDAO.save(a);
-        return "redirect:";
+        return "redirect:/artista";
     }
 }
