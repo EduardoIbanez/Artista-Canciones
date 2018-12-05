@@ -16,36 +16,46 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 </head>
 <body>
-<div>
-    <h1 th:text="${tituloFormulario}"></h1>
-    <form method="post" th:object="${estilo}">
 
-        <label>Nombre:</label><br>
-        <input type="text" name ="nombre" class="form-control" /><br><br>
+<div class="container">
+    <div class="row justify-content-center" style="margin-top: 15px">
+        <div class="col-8">
+            <h2 class="text-center">Agregar Estilo</h2>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-8">
+            <form method="post" th:object="${estilo}">
+                <div class="form-group">
+                    <label for="nombre">Nombre</label>
+                    <input type="text" class="form-control" id="nombre" name ="nombre">
 
-
-        <input type="button" value ="Cancelar" class="btn btn-secondary" />
-        <input type="submit" value ="Enviar" class="btn btn-primary" />
-        <br><br>
-
-    </form>
-
-</div>
-<div>
-    <h1 th:text="${tituloTabla}"></h1>
-
-    <table class="table">
-        <tr>
-            <th>ID</th>
-            <th>Nombres</th>
-        </tr>
-        <tr th:each="e : ${estilos}">
-            <td th:text="${e.id}"></td>
-            <td th:text="${e.nombre}"></td>
-        </tr>
-    </table>
+                </div>
+                <input type="submit" value ="Cacelar" class="btn btn-secondary" />
+                <input type="submit" value ="Agregar" class="btn btn-primary" />
+            </form>
+        </div>
+    </div>
     <br><br>
+    <div class="row justify-content-center" >
+        <div class="col-8">
+            <h2 class="text-left">Lista De Estilos</h2>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-8">
+            <table class="table" width="100%">
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre</th>
+                </tr>
+                <tr th:each="e : ${estilos}">
+                    <td th:text="${e.id}"></td>
+                    <td th:text="${e.nombre}"></td>
+                </tr>
+            </table>
+        </div>
+    </div>
 </div>
-
 </body>
 </html>

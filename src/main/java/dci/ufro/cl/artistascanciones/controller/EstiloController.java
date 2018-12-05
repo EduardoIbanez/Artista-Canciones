@@ -20,19 +20,9 @@ public class EstiloController {
     public String index(Model modelo){
 
         modelo.addAttribute("estilos",estiloDAO.findAll());
-        modelo.addAttribute("tituloTabla", "Listar Estilos");
-        modelo.addAttribute("tituloFormulario", "Ingresar Estilo Musical");
         modelo.addAttribute(new Estilo());
         return "estilo/index";
     }
-
-//    @RequestMapping(value = "add", method = RequestMethod.GET)
-//    public String desplegarFormularioEstilo(Model modelo){
-//
-//        modelo.addAttribute("tituloFormulario", "Ingresar Estilo Musical");
-//
-//        return "estilo/index";
-//    }
 
     @RequestMapping(value = "", method = RequestMethod.POST)
     public String procesarFormularioEstilo(@ModelAttribute Estilo e){
