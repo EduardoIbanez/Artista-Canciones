@@ -33,8 +33,11 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="D:/Descargas/Artista-Canciones-master/src/main/resources/templates/cancion/index.html" timestamp="1544038403756">
-        <mark key="[" line="51" column="0" />
+      <file name="D:/Descargas/Artista-Canciones-master/src/main/resources/templates/cancion/index.html" timestamp="1544038997812">
+        <mark key="'" line="91" column="62" />
+        <mark key="[" line="91" column="72" />
+        <mark key="]" line="101" column="1" />
+        <mark key="." line="101" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/resources/templates/persona/index.html" timestamp="1543430811614">
         <mark key="[" line="20" column="0" />
@@ -76,13 +79,15 @@
       <file name="D:/Descargas/Artista-Canciones-master/src/main/resources/templates/cancion/add.html" timestamp="1544038396490" />
       <file name="D:/Artista-Canciones/src/main/resources/templates/cancion/add.html" timestamp="1544037910102" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="91" column="62" filename="D:/Descargas/Artista-Canciones-master/src/main/resources/templates/cancion/index.html" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBPYmplY3QgcyxvOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1234567</text>
+        <text>ar&quot;</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CkBUcmFuc2FjdGlvbmFs</text>
@@ -101,7 +106,7 @@
     @ResponseB</text>
       </register>
       <register name="-" type="4">
-        <text>1234567</text>
+        <text>ar&quot;</text>
       </register>
     </registers>
     <search>
