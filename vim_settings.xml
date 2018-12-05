@@ -6,10 +6,9 @@
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/DemoControllerApplication.java" timestamp="1543246115541">
         <mark key="[" line="9" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544036543488">
+      <file name="/Dummy.txt" timestamp="1544047104625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Descargas/Artista-Canciones-master/src/main/java/dci/ufro/cl/artistascanciones/controller/EstiloController.java" timestamp="1544043232898" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/pom.xml" timestamp="1543432487312">
         <mark key="[" line="30" column="20" />
         <mark key="]" line="42" column="20" />
@@ -70,7 +69,6 @@
         <mark key="]" line="36" column="27" />
         <mark key="." line="36" column="27" />
       </file>
-      <file name="D:/Artista-Canciones/src/main/resources/templates/cancion/index.html" timestamp="1544037033179" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/resources/application.properties" timestamp="1543432610675">
         <mark key="[" line="0" column="86" />
         <mark key="]" line="0" column="47" />
@@ -79,7 +77,6 @@
       <file name="D:/Descargas/Artista-Canciones-master/src/main/resources/templates/cancion/add.html" timestamp="1544043279950">
         <mark key="[" line="41" column="11" />
       </file>
-      <file name="D:/Artista-Canciones/src/main/resources/templates/cancion/add.html" timestamp="1544037910102" />
     </filemarks>
     <jumps>
       <jump line="91" column="62" filename="D:/Descargas/Artista-Canciones-master/src/main/resources/templates/cancion/index.html" />
