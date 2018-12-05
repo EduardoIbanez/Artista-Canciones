@@ -33,6 +33,9 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="D:/Descargas/Artista-Canciones-master/src/main/resources/templates/cancion/index.html" timestamp="1544038403756">
+        <mark key="[" line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/resources/templates/persona/index.html" timestamp="1543430811614">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -46,7 +49,7 @@
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/model/Persona.java" timestamp="1543433056831">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/Descargas/Artista-Canciones-master/src/main/resources/application.properties" timestamp="1544035326996">
+      <file name="D:/Descargas/Artista-Canciones-master/src/main/resources/application.properties" timestamp="1544038011517">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
@@ -70,6 +73,7 @@
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="D:/Descargas/Artista-Canciones-master/src/main/resources/templates/cancion/add.html" timestamp="1544038396490" />
       <file name="D:/Artista-Canciones/src/main/resources/templates/cancion/add.html" timestamp="1544037910102" />
     </filemarks>
     <jumps />
