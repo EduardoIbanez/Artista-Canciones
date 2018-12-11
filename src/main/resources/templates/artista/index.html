@@ -1,33 +1,63 @@
 <!DOCTYPE html>
 <html lang="en" xmlns:th="http://www.thymeleaf.org/">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-</head>
+<head th:replace="fragments :: head"></head>
 <body>
-<h1 th:text="${tituloTabla}"></h1>
+<nav th:replace="fragments :: navigation"></nav>
 
-<table class="table">
-    <tr>
-        <th>Nombre</th>
-        <th>Estilo</th>
-        <th>Opciones</th>
-    </tr>
-    <tr th:each="a : ${artistas}">
-        <td th:text="${a.nombre}"></td>
-        <td th:text="${a.getEstilo().nombre}"></td>
-        <td>
-            <a href="">Editar</a>
-            <a href="">Borrar</a>
-            <a href="/cancion/add">Canciones</a>
-        </td>
-    </tr>
-</table>
-<br><br>
-<br><br>
+<div class="container">
+    <div class="row justify-content-center" style="margin-top: 15px">
+        <div class="col-8">
+            <h2 class="text-center">Agregar Artista</h2>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-8">
+            <form method="post" th:object="${artista}">
+                <div class="form-group">
+                    <label for="nombre">Nombre</label>
+                    <input type="text" class="form-control" id="nombre" name ="nombre">
+
+                </div>
+                <div class="form-group">
+                    <label for="estilo">Estilo</label>
+                    <select id="estilo" class="form-control" name="estilo">-->
+                        <option th:each="te : ${estilos}"
+                                th:text="${te.nombre}"
+                                th:value="${te.id}">
+                        </option>
+                    </select>
+                </div>
+
+                <input type="submit" value ="Agregar Artista" class="btn btn-primary" />
+            </form>
+        </div>
+    </div>
+    <br><br>
+    <div class="row justify-content-center" >
+        <div class="col-8">
+            <h2 class="text-left">Lista De Artistas</h2>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-8">
+            <table class="table" width="100%">
+                <tr>
+                    <th>Nombre</th>
+                    <th>Estilo</th>
+                    <th>Opciones</th>
+                </tr>
+                <tr th:each="a : ${artistas}">
+                    <td th:text="${a.nombre}"></td>
+                    <td th:text="${a.getEstilo().nombre}"></td>
+                    <td>
+                        <a th:href="@{editar/{id} (id=${a.id})}">Editar</a>
+                        <a th:href="@{borrar/{id} (id=${a.id})}">Borrar</a>
+                        <a href="/cancion/add">Canciones</a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
 </body>
 </html>
