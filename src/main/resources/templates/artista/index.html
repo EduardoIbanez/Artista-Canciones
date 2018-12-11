@@ -50,8 +50,8 @@
                     <td th:text="${a.nombre}"></td>
                     <td th:text="${a.getEstilo().nombre}"></td>
                     <td>
-                        <a th:href="@{editar/{id} (id=${a.id})}">Editar</a>
-                        <a th:href="@{borrar/{id} (id=${a.id})}">Borrar</a>
+                        <a th:href="@{artista/editar/{id} (id=${a.id})}">Editar</a>
+                        <a th:href="@{artista/borrar/{id} (id=${a.id})}">Borrar</a>
                         <a href="/cancion/add">Canciones</a>
                     </td>
                 </tr>
