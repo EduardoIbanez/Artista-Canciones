@@ -30,11 +30,11 @@
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/app-mensaje-secreto/src/main/resources/templates/mensaje/add.html" timestamp="1544645044761">
-        <mark key="e" line="26" column="37" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/app-mensaje-secreto/src/main/resources/templates/mensaje/add.html" timestamp="1544646870304">
+        <mark key="e" line="48" column="37" />
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
       </file>
       <file name="D:/Descargas/Artista-Canciones-master/src/main/resources/application.properties" timestamp="1544038011517">
         <mark key="[" line="2" column="26" />
@@ -46,8 +46,11 @@
         <mark key="'" line="10" column="47" />
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/app-mensaje-secreto/src/main/java/cl/ufro/dci/app/model/Mensaje.java" timestamp="1544640602832">
-        <mark key="'" line="9" column="19" />
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/app-mensaje-secreto/src/main/java/cl/ufro/dci/app/model/Mensaje.java" timestamp="1544646111466">
+        <mark key="'" line="10" column="19" />
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/DemoControllerApplication.java" timestamp="1543246115541">
         <mark key="[" line="9" column="68" />
@@ -80,6 +83,7 @@
         <mark key="[" line="1" column="15" />
       </file>
       <file name="D:/Descargas/demo-app-artistas/src/main/java/cl/ufro/dci/demoappartistas/controller/EstiloController.java" timestamp="1544643528111" />
+      <file name="D:/Descargas/demo-app-artistas/src/main/java/cl/ufro/dci/demoappartistas/model/Cancion.java" timestamp="1544645713809" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/dao/PersonaDao.java" timestamp="1543432770135">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
@@ -99,6 +103,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/lala/demo-jpa/demo-controller/src/main/java/cl/ufo/dci/democontroller/model/data/PersonaDao.java" timestamp="1544640253071" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/app-mensaje-secreto/src/main/java/cl/ufro/dci/app/AppMensajeSecretoApplication.java" timestamp="1544641178174" />
+      <file name="D:/Descargas/demo-app-artistas/src/main/java/cl/ufro/dci/demoappartistas/model/Estilo.java" timestamp="1544645704686" />
       <file name="D:/Descargas/demo-app-artistas/src/main/resources/application.properties" timestamp="1544641937868">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="27" />
@@ -143,7 +148,7 @@
         <text encoding="base64">CgoKCgo8L2JvZHk+CjwvaHRtbD4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgoKCgo8L2JvZHk+CjwvaHRtbD4=</text>
+        <text>mensaje</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PHAgdGg6dGV4dD0iJHt0aXR1bG99Ij48L3A+Cg==</text>
@@ -171,7 +176,7 @@
         <text encoding="base64">CjxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBkYXRhLXRvZ2dsZT0ibW9kYWwiIGRhdGEtdGFyZ2V0PSIjZXhhbXBsZU1vZGFsIj4KICAgIExhbGFsYSA8L2J1dHRvbj4KPCEtLSBNb2RhbCAtLT4KPGRpdiBjbGFzcz0ibW9kYWwgZmFkZSIgaWQ9ImV4YW1wbGVNb2RhbCIgdGFiaW5kZXg9Ii0xIiByb2xlPSJkaWFsb2ciIGFyaWEtbGFiZWxsZWRieT0iZXhhbXBsZU1vZGFsTGFiZWwiIGFyaWEtaGlkZGVuPSJ0cnVlIj4KICAgIDxkaXYgY2xhc3M9Im1vZGFsLWRpYWxvZyIgcm9sZT0iZG9jdW1lbnQiPgogICAgICAgIDxkaXYgY2xhc3M9Im1vZGFsLWNvbnRlbnQiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb2RhbC1oZWFkZXIiPgogICAgICAgICAgICAgICAgPGg1IGNsYXNzPSJtb2RhbC10aXRsZSIgaWQ9ImV4YW1wbGVNb2RhbExhYmVsIj5FZGl0YXIgQ2FuY2lvbjwvaDU+CiAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gYXJpYS1oaWRkZW49InRydWUiPiZ0aW1lczs8L3NwYW4+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1vZGFsLWJvZHkiPgogICAgICAgICAgICAgICAgPGgxIHRoOnRleHQ9IiR7dGl0dWxvRm9ybXVsYXJpb30iPjwvaDE+CgogICAgICAgICAgICAgICAgPGZvcm0gbWV0aG9kPSJwb3N0IiB0aDpvYmplY3Q9IiR7Y2FuY2lvbn0iPgoKICAgICAgICAgICAgICAgICAgICA8bGFiZWwgPkFydGlzdGE6PC9sYWJlbD48YnI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0ICB0eXBlPSJ0ZXh0IiBuYW1lID0ibm9tYnJlIiBjbGFzcz0iZm9ybS1jb250cm9sIiAvPjxicj48YnI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsPkNhbmNp8246PC9sYWJlbD48YnI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWUgPSJ0aXR1bG8iIGNsYXNzPSJmb3JtLWNvbnRyb2wiIC8+PGJyPjxicj4KICAgICAgICAgICAgICAgICAgICA8bGFiZWw+RHVyYWNp8246PC9sYWJlbD48YnI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWUgPSJkdXJhY2lvbiIgY2xhc3M9ImZvcm0tY29udHJvbCIgLz48YnI+PGJyPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbD5Fc3RpbG86PC9sYWJlbD48YnI+CiAgICAgICAgICAgICAgICAgICAgPHNlbGVjdCBuYW1lPSJlc3RpbG8iPgogICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHRoOmVhY2g9InRlYyA6ICR7ZXN0aWxvc30iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGg6dGV4dD0iJHt0ZWMubm9tYnJlfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDp2YWx1ZT0iJHt0ZWMuaWR9Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgPC9zZWxlY3Q+CgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJidXR0b24iIHZhbHVlID0iQ2FuY2VsYXIiIGNsYXNzPSJidG4gYnRuLXNlY29uZGFyeSIgLz4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZSA9Ikd1YXJkYXIiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIC8+CiAgICAgICAgICAgICAgICAgICAgPGJyPjxicj4KICAgICAgICAgICAgICAgICAgICA8L2ZpZWxkc2V0PgogICAgICAgICAgICAgICAgPC9mb3JtPgogICAgICAgICAgICAgICAgPGJyPjxicj48YnI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb2RhbC1mb290ZXIiPgogICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXNlY29uZGFyeSIgZGF0YS1kaXNtaXNzPSJtb2RhbCI+Q2VycmFyPC9idXR0b24+CiAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R3VhcmRhciBjYW1iaW9zPC9idXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CjwvZGl2Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>Persona</text>
+        <text>mensaje</text>
       </register>
     </registers>
     <search>
@@ -196,6 +201,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
