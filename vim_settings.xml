@@ -6,6 +6,11 @@
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/DemoControllerApplication.java" timestamp="1543246115541">
         <mark key="[" line="9" column="68" />
       </file>
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/app-mensaje-secreto/src/main/resources/application.properties" timestamp="1544638308546">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1544047104625">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,7 +97,7 @@
         <text encoding="base64">IDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXdhcm5pbmcgYWxlcnQtZGlzbWlzc2FibGUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iY2xvc2UiIGRhdGEtZGlzbWlzcz0iYWxlcnQiPiZ0aW1lczs8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPqFDdWlkYWRvITwvc3Ryb25nPiBFcyBtdXkgaW1wb3J0YW50ZSBxdWUgbGVhcyBlc3RlIG1lbnNhamUgZGUgYWxlcnRhLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>usuario</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">IDxmb3JtIG1ldGhvZD0icG9zdCIgdGg6b2JqZWN0PSIke2NhbmNpb259Ij4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsID5BcnRpc3RhOjwvbGFiZWw+PGJyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCAgdHlwZT0idGV4dCIgbmFtZSA9Im5vbWJyZSIgY2xhc3M9ImZvcm0tY29udHJvbCIgLz48YnI+PGJyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbD5DYW5jafNuOjwvbGFiZWw+PGJyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lID0idGl0dWxvIiBjbGFzcz0iZm9ybS1jb250cm9sIiAvPjxicj48YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsPkR1cmFjafNuOjwvbGFiZWw+PGJyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lID0iZHVyYWNpb24iIGNsYXNzPSJmb3JtLWNvbnRyb2wiIC8+PGJyPjxicj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWw+RXN0aWxvOjwvbGFiZWw+PGJyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgbmFtZT0iZXN0aWxvIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB0aDplYWNoPSJ0ZWMgOiAke2VzdGlsb3N9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoOnRleHQ9IiR7dGVjLm5vbWJyZX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGg6dmFsdWU9IiR7dGVjLmlkfSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2VsZWN0PgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iYnV0dG9uIiB2YWx1ZSA9IkNhbmNlbGFyIiBjbGFzcz0iYnRuIGJ0bi1zZWNvbmRhcnkiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWUgPSJHdWFyZGFyIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxicj48YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9maWVsZHNldD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZm9ybT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxicj48YnI+PGJyPg==</text>
@@ -120,7 +125,7 @@
     @ResponseB</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>usuario</text>
       </register>
     </registers>
     <search>
