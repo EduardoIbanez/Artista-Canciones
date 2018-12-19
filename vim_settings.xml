@@ -6,7 +6,6 @@
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controlador/src/main/java/cl/ufo/dci/democontrolador/model/Persona.java" timestamp="1543247304008">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/lala/demo-controller/src/main/java/cl/ufo/dci/democontroller/controller/HelloController.java" timestamp="1544640669243" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/tal/demo-controller/src/main/resources/application.properties" timestamp="1543439356765">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="27" />
@@ -46,11 +45,6 @@
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/lala/demo-jpa/demo-controller/src/main/java/cl/ufo/dci/democontroller/controller/PersonaController.java" timestamp="1544644259627" />
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/app-mensaje-secreto/src/main/java/cl/ufro/dci/app/model/data/MensajeDao.java" timestamp="1544640280005">
-        <mark key="'" line="10" column="47" />
-        <mark key="[" line="2" column="23" />
-      </file>
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/app-mensaje-secreto/src/main/java/cl/ufro/dci/app/model/Mensaje.java" timestamp="1544646111466">
         <mark key="'" line="10" column="19" />
         <mark key="[" line="19" column="25" />
@@ -68,7 +62,6 @@
       <file name="/Dummy.txt" timestamp="1544047104625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/lala/demo-jpa/demo-controller/src/main/java/cl/ufo/dci/democontroller/model/Persona.java" timestamp="1544640453370" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/pom.xml" timestamp="1543432487312">
         <mark key="[" line="30" column="20" />
         <mark key="]" line="42" column="20" />
@@ -87,21 +80,21 @@
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/resources/templates/persona/add.html" timestamp="1543431061684">
         <mark key="[" line="1" column="15" />
       </file>
-      <file name="D:/Descargas/demo-app-artistas/src/main/java/cl/ufro/dci/demoappartistas/controller/EstiloController.java" timestamp="1544643528111" />
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/casa/src/main/java/app.java" timestamp="1545243485026">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/app-mensaje-secreto/src/main/java/cl/ufro/dci/app/model/hora.java" timestamp="1544647826310">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="D:/Descargas/demo-app-artistas/src/main/java/cl/ufro/dci/demoappartistas/model/Cancion.java" timestamp="1544645713809" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/dao/PersonaDao.java" timestamp="1543432770135">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="D:/Descargas/demo-app-artistas/src/main/java/cl/ufro/dci/demoappartistas/DemoAppArtistasApplication.java" timestamp="1544633994601" />
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/lala/demo-jpa/demo-controller/src/main/resources/templates/persona/add.html" timestamp="1544643677391" />
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/lala/demo-jpa/demo-controller/src/main/resources/templates/persona/index.html" timestamp="1544644106402" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/model/Persona.java" timestamp="1543433056831">
         <mark key="[" line="1" column="0" />
       </file>
@@ -111,9 +104,6 @@
         <mark key="]" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/lala/demo-jpa/demo-controller/src/main/java/cl/ufo/dci/democontroller/model/data/PersonaDao.java" timestamp="1544640253071" />
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/app-mensaje-secreto/src/main/java/cl/ufro/dci/app/AppMensajeSecretoApplication.java" timestamp="1544641178174" />
-      <file name="D:/Descargas/demo-app-artistas/src/main/java/cl/ufro/dci/demoappartistas/model/Estilo.java" timestamp="1544645704686" />
       <file name="D:/Descargas/demo-app-artistas/src/main/resources/application.properties" timestamp="1544641937868">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="27" />
@@ -160,34 +150,34 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">IG1vZGVsby5hZGRBdHRyaWJ1dGUoInRpdHVsb0Zvcm11bGFyaW8iLCAiSW5ncmVzbyBkZSBtZW5zYWplcyIpOwoKICAgICAgICBtb2RlbG8uYWRkQXR0cmlidXRlKG5ldyBNZW5zYWplKCkpOw==</text>
+        <text encoding="base64">CgoKICAgICAgICAvL0Fxde0gbGFzIGluc3RydWNjaW9uZXMgZGVsIG3pdG9kbwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>FormularioMensaje</text>
+        <text encoding="base64">CgoKICAgICAgICAvL0Fxde0gbGFzIGluc3RydWNjaW9uZXMgZGVsIG3pdG9kbwo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Cjx0YWJsZSBjbGFzcz0idGFibGUiPgogICAgPHRyPgogICAgICAgIDx0aD5UaXR1bG88L3RoPgogICAgICAgIDx0aD5NZW5zYWplPC90aD4KICAgICAgICA8dGg+RmVjaGE8L3RoPgogICAgICAgIDx0aD5Ib3JhPC90aD4KICAgICAgICA8dGg+TGxhdmU8L3RoPgogICAgPC90cj4KICAgIDx0ciB0aDplYWNoPSJtIDogJHttZW5zYWplc30iPgogICAgICAgIDx0ZCB0aDp0ZXh0PSIke20udGl0dWxvfSI+PC90ZD4KICAgICAgICA8dGQgdGg6dGV4dD0iJHttLnJlY2Fkb30iPjwvdGQ+CiAgICAgICAgPHRkIHRoOnRleHQ9IiR7bS5mZWNoYX0iPjwvdGQ+CiAgICAgICAgPHRkIHRoOnRleHQ9IiR7bS5ob3JhfSI+PC90ZD4KICAgICAgICA8dGQgdGg6dGV4dD0iJHttLmxsYXZlfSI+PC90ZD4KICAgIDwvdHI+CjwvdGFibGU+Cjxicj48YnI+</text>
+        <text encoding="base64">ICAgcHVibGljIGFwcCgpIHsKICAgIH0=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIDxTY3JpcHQgTGFuZ3VhZ2U9IkphdmFTY3JpcHQiPgogICAgZnVuY3Rpb24gRGFtZUxhRmVjaGFIb3JhKCkgewogICAgICB2YXIgaG9yYSA9IG5ldyBEYXRlKCkKICAgICAgdmFyIGhycyA9IGhvcmEuZ2V0SG91cnMoKTsKICAgICAgdmFyIG1pbiA9IGhvcmEuZ2V0TWludXRlcygpOwogICAgICB2YXIgaG95ID0gbmV3IERhdGUoKTsKICAgICAgdmFyIG0gPSBuZXcgQXJyYXkoKTsKICAgICAgdmFyIGQgPSBuZXcgQXJyYXkoKQogICAgICB2YXIgYW49IGhveS5nZXRZZWFyKCk7CiAgICAgIG1bMF09IkVuZXJvIjsgIG1bMV09IkZlYnJlcm8iOyAgbVsyXT0iTWFyem8iOwogICAgICBtWzNdPSJBYnJpbCI7ICAgbVs0XT0iTWF5byI7ICBtWzVdPSJKdW5pbyI7CiAgICAgIG1bNl09Ikp1bGlvIjsgICAgbVs3XT0iQWdvc3RvIjsgICBtWzhdPSJTZXB0aWVtYnJlIjsKICAgICAgbVs5XT0iT2N0dWJyZSI7ICAgbVsxMF09Ik5vdmllbWJyZSI7IG1bMTFdPSJEaWNpZW1icmUiOwogICAgICBkb2N1bWVudC53cml0ZSgiU29uIGxhcyAiK2hycysiOiIrbWluKyIgKCIpOwogICAgICBkb2N1bWVudC53cml0ZShob3kuZ2V0RGF0ZSgpKTsKICAgICAgZG9jdW1lbnQud3JpdGUoIiBkZSAiKTsKICAgICAgZG9jdW1lbnQud3JpdGUobVtob3kuZ2V0TW9udGgoKV0pOwogICAgICBkb2N1bWVudC53cml0ZSgiKSIpOwogICAgfQogIDwvU2NyaXB0Pg==</text>
+        <text encoding="base64">IG1vZGVsby5hZGRBdHRyaWJ1dGUoInRpdHVsb0Zvcm11bGFyaW8iLCAiSW5ncmVzbyBkZSBtZW5zYWplcyIpOwoKICAgICAgICBtb2RlbG8uYWRkQXR0cmlidXRlKG5ldyBNZW5zYWplKCkpOw==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBob3JhOwogICAgcHJpdmF0ZSBTdHJpbmcgbWluOw==</text>
+        <text encoding="base64">Cjx0YWJsZSBjbGFzcz0idGFibGUiPgogICAgPHRyPgogICAgICAgIDx0aD5UaXR1bG88L3RoPgogICAgICAgIDx0aD5NZW5zYWplPC90aD4KICAgICAgICA8dGg+RmVjaGE8L3RoPgogICAgICAgIDx0aD5Ib3JhPC90aD4KICAgICAgICA8dGg+TGxhdmU8L3RoPgogICAgPC90cj4KICAgIDx0ciB0aDplYWNoPSJtIDogJHttZW5zYWplc30iPgogICAgICAgIDx0ZCB0aDp0ZXh0PSIke20udGl0dWxvfSI+PC90ZD4KICAgICAgICA8dGQgdGg6dGV4dD0iJHttLnJlY2Fkb30iPjwvdGQ+CiAgICAgICAgPHRkIHRoOnRleHQ9IiR7bS5mZWNoYX0iPjwvdGQ+CiAgICAgICAgPHRkIHRoOnRleHQ9IiR7bS5ob3JhfSI+PC90ZD4KICAgICAgICA8dGQgdGg6dGV4dD0iJHttLmxsYXZlfSI+PC90ZD4KICAgIDwvdHI+CjwvdGFibGU+Cjxicj48YnI+</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CmltcG9ydCBqYXZhLmlvLio7CmltcG9ydCBqYXZhLnV0aWwuRGF0ZTs=</text>
+        <text encoding="base64">ICAgIDxTY3JpcHQgTGFuZ3VhZ2U9IkphdmFTY3JpcHQiPgogICAgZnVuY3Rpb24gRGFtZUxhRmVjaGFIb3JhKCkgewogICAgICB2YXIgaG9yYSA9IG5ldyBEYXRlKCkKICAgICAgdmFyIGhycyA9IGhvcmEuZ2V0SG91cnMoKTsKICAgICAgdmFyIG1pbiA9IGhvcmEuZ2V0TWludXRlcygpOwogICAgICB2YXIgaG95ID0gbmV3IERhdGUoKTsKICAgICAgdmFyIG0gPSBuZXcgQXJyYXkoKTsKICAgICAgdmFyIGQgPSBuZXcgQXJyYXkoKQogICAgICB2YXIgYW49IGhveS5nZXRZZWFyKCk7CiAgICAgIG1bMF09IkVuZXJvIjsgIG1bMV09IkZlYnJlcm8iOyAgbVsyXT0iTWFyem8iOwogICAgICBtWzNdPSJBYnJpbCI7ICAgbVs0XT0iTWF5byI7ICBtWzVdPSJKdW5pbyI7CiAgICAgIG1bNl09Ikp1bGlvIjsgICAgbVs3XT0iQWdvc3RvIjsgICBtWzhdPSJTZXB0aWVtYnJlIjsKICAgICAgbVs5XT0iT2N0dWJyZSI7ICAgbVsxMF09Ik5vdmllbWJyZSI7IG1bMTFdPSJEaWNpZW1icmUiOwogICAgICBkb2N1bWVudC53cml0ZSgiU29uIGxhcyAiK2hycysiOiIrbWluKyIgKCIpOwogICAgICBkb2N1bWVudC53cml0ZShob3kuZ2V0RGF0ZSgpKTsKICAgICAgZG9jdW1lbnQud3JpdGUoIiBkZSAiKTsKICAgICAgZG9jdW1lbnQud3JpdGUobVtob3kuZ2V0TW9udGgoKV0pOwogICAgICBkb2N1bWVudC53cml0ZSgiKSIpOwogICAgfQogIDwvU2NyaXB0Pg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CgoKCgo8L2JvZHk+CjwvaHRtbD4=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBob3JhOwogICAgcHJpdmF0ZSBTdHJpbmcgbWluOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PHAgdGg6dGV4dD0iJHt0aXR1bG99Ij48L3A+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmltcG9ydCBqYXZhLmlvLio7CmltcG9ydCBqYXZhLnV0aWwuRGF0ZTs=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICA8bGFiZWw+VGlwbyBkZSBDb250cmF0bzo8L2xhYmVsPjxicj4KICAgICAgICA8c2VsZWN0IG5hbWU9ImNvbnRyYXRvIj4KICAgICAgICAgICAgPG9wdGlvbiB0aDplYWNoPSJ0YyA6ICR7Y29udHJhdG9zfSIKICAgICAgICAgICAgICAgICAgICB0aDp0ZXh0PSIke3RjLm5vbWJyZX0iCiAgICAgICAgICAgICAgICAgICAgdGg6dmFsdWU9IiR7dGMuaWR9Ij4KICAgICAgICAgICAgPC9vcHRpb24+CiAgICAgICAgPC9zZWxlY3Q+</text>
+        <text encoding="base64">CgoKCgo8L2JvZHk+CjwvaHRtbD4=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIiB4bWxuczp0aD0iaHR0cDovL3d3dy50aHltZWxlYWYub3JnLyI+CjxoZWFkPgogICAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogICAgPHRpdGxlPlRpdGxlPC90aXRsZT4KICAgIDwhLS0gTGF0ZXN0IGNvbXBpbGVkIGFuZCBtaW5pZmllZCBDU1MgLS0+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzQuMS4zL2Nzcy9ib290c3RyYXAubWluLmNzcyI+CgogICAgPCEtLSBqUXVlcnkgbGlicmFyeSAtLT4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL2pxdWVyeS8zLjMuMS9qcXVlcnkubWluLmpzIj48L3NjcmlwdD4KCiAgICA8IS0tIFBvcHBlciBKUyAtLT4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9wb3BwZXIuanMvMS4xNC4zL3VtZC9wb3BwZXIubWluLmpzIj48L3NjcmlwdD4KCiAgICA8IS0tIExhdGVzdCBjb21waWxlZCBKYXZhU2NyaXB0IC0tPgogICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzQuMS4zL2pzL2Jvb3RzdHJhcC5taW4uanMiPjwvc2NyaXB0Pgo8L2hlYWQ+Cjxib2R5Pg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">PHAgdGg6dGV4dD0iJHt0aXR1bG99Ij48L3A+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>FormularioMensaje</text>
