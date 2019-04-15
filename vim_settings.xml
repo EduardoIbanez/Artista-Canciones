@@ -113,6 +113,12 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/model/Dispositivo.java" timestamp="1555344126637">
+        <mark key="[" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/model/Sector.java" timestamp="1555344184529">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/dao/PersonaDao.java" timestamp="1543432770135">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
@@ -127,6 +133,9 @@
         <mark key="[" line="46" column="25" />
         <mark key="]" line="46" column="25" />
         <mark key="." line="46" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/model/TipoDispositivo.java" timestamp="1555343892419">
+        <mark key="[" line="2" column="29" />
       </file>
       <file name="D:/Descargas/demo-app-artistas/src/main/resources/application.properties" timestamp="1544641937868">
         <mark key="[" line="1" column="26" />
@@ -236,6 +245,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
