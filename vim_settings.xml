@@ -53,6 +53,11 @@
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/DispositivoController.java" timestamp="1555342087151">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/app-mensaje-secreto/src/main/java/cl/ufro/dci/app/model/Mensaje.java" timestamp="1544646111466">
         <mark key="'" line="10" column="19" />
         <mark key="[" line="19" column="25" />
@@ -113,6 +118,7 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/DemoDispositivosApplication.java" timestamp="1555341888635" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/model/Persona.java" timestamp="1543433056831">
         <mark key="[" line="1" column="0" />
       </file>
@@ -171,7 +177,7 @@
         <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgaW1wcmltaXJUaWNrZXQoU3RyaW5nIGhvcmEsIGludCBwaXNvLCBjaGFyIHRpcG8sIFN0cmluZyBwYXRlbnRlLCBTdHJpbmcgaG9yYV9zYWxpZGEsIGRvdWJsZSBpbXBvcnRlKSB7CiAgICAgICAgUHJpbnRlckpvYiBqb2IgPSBQcmludGVySm9iLmdldFByaW50ZXJKb2IoKTsKICAgICAgICBqb2Iuc2V0UHJpbnRhYmxlKG5ldyBUaWNrZXRTYWxpZGEoaG9yYSwgcGlzbywgdGlwbywgcGF0ZW50ZSwgaG9yYV9zYWxpZGEsIGltcG9ydGUpKTsKICAgICAgICBQYWdlRm9ybWF0IHBhZ2VGb3JtYXQgPSBuZXcgUGFnZUZvcm1hdCgpOwogICAgICAgIHBhZ2VGb3JtYXQgPSBqb2IucGFnZURpYWxvZyhwYWdlRm9ybWF0KTsKICAgICAgICBpZiAoam9iLnByaW50RGlhbG9nKCkpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGpvYi5wcmludCgpOwogICAgICAgICAgICB9IGNhdGNoIChQcmludGVyRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKFZlbnRhbmFFbnRyYWRhLmNsYXNzLmdldE5hbWUoKSkubG9nKExldmVsLlNFVkVSRSwgbnVsbCwgZXgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgIC8vQ29tcHJ1ZWJvIHNpIGVzIHVuYSBwYXRlbnRlIHZhbGlkYQogICAgICAgIFN0cmluZyBwYXRlbnRlID0gY2FtcG9QYXRlbnRlLmdldFRleHQoKTsKICAgICAgICBpZiAocGF0ZW50ZS5sZW5ndGgoKSA9PSA2KSB7CiAgICAgICAgICAgIC8vT2J0ZW5nbyBiZWFuCiAgICAgICAgICAgIEhpc3Rvcmljb0JlYW4gYmVhbiA9IGJkbS5vYnRlbmVyQ29jaGUocGF0ZW50ZSk7CgogICAgICAgICAgICAvL1NldGVvIGxhcyBmZWNoYXMgZGVsIHRpY2tldAogICAgICAgICAgICBEYXRlIGRhdGUgPSBuZXcgRGF0ZSgpOwogICAgICAgICAgICBGZWNoYUhvcmEgZmVjaGFob3JhID0gbmV3IEZlY2hhSG9yYShkYXRlKTsKICAgICAgICAgICAgU3RyaW5nIGhvcmEgPSBmZWNoYWhvcmEub2J0ZW5lckZlY2hhSG9yYSgpOwogICAgICAgICAgICBEYXRlIGRhdGVFbnRyYWRhID0gbmV3IERhdGUoKGxvbmcpIGJlYW4uZ2V0SG9yYV9vY3VwYWNpb24oKSk7CiAgICAgICAgICAgIEZlY2hhSG9yYSBmZWNoYUVudHJhZGEgPSBuZXcgRmVjaGFIb3JhKGRhdGVFbnRyYWRhKTsKICAgICAgICAgICAgU3RyaW5nIGhvcmFFbnRyYWRhID0gZmVjaGFFbnRyYWRhLm9idGVuZXJGZWNoYUhvcmEoKTsKCiAgICAgICAgICAgIC8vT2J0YW5nbyBpbXBvcnRlICxncmFiYSBlbiBoaXN0b3JpY28geSBib3JybyByZWdpc3RybyBkZSBjb2NoZXJhcwogICAgICAgICAgICBkb3VibGUgdGFyaWZhID0gYmRtLm9idGVuZXJUYXJpZmEoYmVhbi5nZXRUaXBvX2F1dG8oKSk7CiAgICAgICAgICAgIGRvdWJsZSBpbXBvcnRlID0gY2FsY3VsYXJJbXBvcnRlKHRhcmlmYSwgZGF0ZUVudHJhZGEuZ2V0VGltZSgpLCBkYXRlLmdldFRpbWUoKSk7CiAgICAgICAgICAgIGJkbS5ncmFiYXJIaXN0b3JpY28ocGF0ZW50ZSwgYmVhbi5nZXRIb3JhX29jdXBhY2lvbigpLCBiZWFuLmdldFRpcG9fYXV0bygpLCBiZWFuLmdldFBpc28oKSwgaW1wb3J0ZSk7CiAgICAgICAgICAgIGJkbS5ib3JyYXJDb2NoZXJhcyhwYXRlbnRlKTsKCiAgICAgICAgICAgIC8vaW1wcmltbyB0aWNrZXQKICAgICAgICAgICAgaW1wcmltaXJUaWNrZXQoaG9yYUVudHJhZGEsIGJlYW4uZ2V0UGlzbygpLCBiZWFuLmdldFRpcG9fYXV0bygpLCBwYXRlbnRlLCBob3JhLCBpbXBvcnRlKTsKICAgICAgICAgICAgSk9wdGlvblBhbmUuc2hvd01lc3NhZ2VEaWFsb2cobmV3IEpGcmFtZSgpLCAiT3BlcmFjaW9uIFNhdGlzZmFjdG9yaWEiLCAiIiwgSk9wdGlvblBhbmUuSU5GT1JNQVRJT05fTUVTU0FHRSk7CiAgICAgICAgICAgIHRoaXMuZGlzcG9zZSgpOwogICAgICAgIH0=</text>
@@ -202,7 +208,7 @@
         <text encoding="base64">ICAvKioKICAgICAqIEBwYXJhbSB0aXBvX2F1dG8gdGhlIHRpcG9fYXV0byB0byBzZXQKICAgICAqLw==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text />
       </register>
     </registers>
     <search>
