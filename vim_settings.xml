@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controlador/src/main/java/cl/ufo/dci/democontrolador/model/Persona.java" timestamp="1543247304008">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-contaminacion/src/main/java/com/example/democontaminacion/model/Sector.java" timestamp="1555379037477" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/casa/src/main/java/modelo/auto.java" timestamp="1545246679008">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="2" />
@@ -108,6 +109,7 @@
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/resources/templates/persona/add.html" timestamp="1543431061684">
         <mark key="[" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-contaminacion/src/main/java/com/example/democontaminacion/model/TipoDispositivo.java" timestamp="1555379007562" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/casa/src/main/java/app.java" timestamp="1545247245381">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="16" />
@@ -118,11 +120,11 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/model/Dispositivo.java" timestamp="1555344126637">
-        <mark key="[" line="2" column="25" />
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/model/Dispositivo.java" timestamp="1555379224653">
+        <mark key="[" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/model/Sector.java" timestamp="1555346430622">
-        <mark key="[" line="33" column="14" />
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/model/Sector.java" timestamp="1555379105850">
+        <mark key="[" line="6" column="66" />
         <mark key="]" line="33" column="14" />
         <mark key="." line="33" column="14" />
       </file>
@@ -131,7 +133,6 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/DemoDispositivosApplication.java" timestamp="1555341888635" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/java/cl/ufo/dci/democontroller/model/Persona.java" timestamp="1543433056831">
         <mark key="[" line="1" column="0" />
       </file>
@@ -141,7 +142,7 @@
         <mark key="]" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/model/TipoDispositivo.java" timestamp="1555343892419">
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/model/TipoDispositivo.java" timestamp="1555379020581">
         <mark key="[" line="2" column="29" />
       </file>
       <file name="D:/Descargas/demo-app-artistas/src/main/resources/application.properties" timestamp="1544641937868">
