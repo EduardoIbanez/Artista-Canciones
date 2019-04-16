@@ -6,7 +6,6 @@
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controlador/src/main/java/cl/ufo/dci/democontrolador/model/Persona.java" timestamp="1543247304008">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-contaminacion/src/main/java/com/example/democontaminacion/model/Sector.java" timestamp="1555379037477" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/casa/src/main/java/modelo/auto.java" timestamp="1545246679008">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="2" />
@@ -109,7 +108,6 @@
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/resources/templates/persona/add.html" timestamp="1543431061684">
         <mark key="[" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-contaminacion/src/main/java/com/example/democontaminacion/model/TipoDispositivo.java" timestamp="1555379007562" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/casa/src/main/java/app.java" timestamp="1545247245381">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="16" />
@@ -168,13 +166,12 @@
         <mark key="]" line="36" column="27" />
         <mark key="." line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/resources/templates/resultadoPeticiones.html" timestamp="1555381885020" />
       <file name="$USER_HOME$/Desktop/ING SOFTWARE/demo-controller/src/main/resources/application.properties" timestamp="1543432610675">
         <mark key="[" line="0" column="86" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/controller/DispositivoController.java" timestamp="1555384257872">
+      <file name="$USER_HOME$/Desktop/ING SOFTWARE/2019/demo-dispositivos/src/main/java/cl/ufro/dci/demodispositivos/controller/DispositivoController.java" timestamp="1555384647723">
         <mark key="[" line="28" column="2" />
         <mark key="]" line="28" column="2" />
         <mark key="^" line="31" column="50" />
